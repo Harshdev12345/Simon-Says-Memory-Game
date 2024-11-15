@@ -1,4 +1,4 @@
-##Simon-Says Game - README
+# Simon-Says Game - README
 
 Flashing Button Game is a simple web-based memory game where the player repeats a sequence of flashing buttons to advance through levels. The game challenges memory and reflexes by requiring players to follow increasingly complex sequences. It is built using HTML, CSS, and JavaScript for a fully interactive experience.
 
